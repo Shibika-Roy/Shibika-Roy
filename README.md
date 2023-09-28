@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .IOt projects..
-- 🌱 I’m currently learning ...machine learning
+- 🌱 I’m currently learning ...machine learning and how it can deploy to embedded systems
 - 👯 I’m looking to collaborate on .tensorflow..
 - 🤔 I’m looking for help with...
 - 💬 Ask me about ...
